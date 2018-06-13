@@ -1,4 +1,6 @@
-TIL is the abbreviation of "Today I Learned".
+## TIL(Today I Learned)
+
+* #### TIL is the abbreviation of "Today I Learned".
 
 * I write the small things about what I learned today or what I wanted to.
 
@@ -13,6 +15,7 @@ TIL is the abbreviation of "Today I Learned".
 * Anyway the first priority is **writing anything in anyway**.
 
 ---
+## TIL(Today I Learned)
 
 * TIL은 "Today I Learned"의 약자로 그 날 배운 것이나 정리하고 싶은 것에 대해서 매일 조금씩 적으려고 만든 repository입니다.
 
@@ -23,6 +26,7 @@ TIL is the abbreviation of "Today I Learned".
 * 사용하는 언어로는 영어와 한글 두 가지 종류가 있습니다. 시간이 나면 되도록 양쪽 모두 번역하려고 하겠지만, 장담은 못합니다.
 
 * 언어보다 중요한 점 하나는 **어떤 식으로 던 아무거나 적는 것**입니다.
+
 
 __목표__
 
