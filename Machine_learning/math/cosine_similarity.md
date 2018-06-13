@@ -1,6 +1,6 @@
 ## cosine similarity( or cosine distance )
 
-![Alt text](TIL/img/cosine_similarity.png)
+![Alt text](img/cosine_similarity.png)
 
 has value between -1 to 1(because it is cosine value)
 
