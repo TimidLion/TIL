@@ -1,6 +1,6 @@
 ## cosine similarity( or cosine distance )
 
-![Alt text](TIL/Machine_learning/math/img/cosine_distance.png)
+![formula](./img/cosine_distance.png)
 
 has value between -1 to 1(because it is cosine value)
 
