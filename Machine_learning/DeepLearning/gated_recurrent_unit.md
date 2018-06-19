@@ -1,7 +1,8 @@
 ## Gated Recurrent Unit (GRU)
 
 The one of cell from RNN(Recursive Neural Networks).
-GRU keeps the good aspects of LSTM, and diminished the complexness of calculating. It overcome some ![Gradient Vanishing/Explosion problems](gradient_vanishing_problem.md).
+GRU keeps the good aspects of LSTM, and diminished the complexness of calculating. 
+It overcome some [Gradient Vanishing/Explosion problems](gradient_vanishing_problem.md).
 
 It is broadly divided into two parts, which are __update gate__ and __reset gate__
 
@@ -15,7 +16,8 @@ Because activation function of reset gate is sigmoin, it has 0 to 1 value. It me
 
 ![memory_formula](./img/memory_formula.gif)
 
-The activation function of upper formula is hyperbolic tangent. It has value between -1 to 1. (Caution. It has no superscript or subscript, it means it is totally different parameters. Also, the odot mean ![Hadamard product](../Math/hadamard_product.md).
+The activation function of upper formula is hyperbolic tangent. It has value between -1 to 1. (Caution. It has no superscript or subscript, it means it is totally different parameters. 
+Also, the odot mean [Hadamard product](../Math/hadamard_product.md).
 
 The formula for updating to next state is this :
 
