@@ -1,4 +1,4 @@
-## tensor.Tensor.backward function
+## torch.Tensor.backward function
 
 Computes the gradient of current tensor w.r.t. graph leaves.
 
