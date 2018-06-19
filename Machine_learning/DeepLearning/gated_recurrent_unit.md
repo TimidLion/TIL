@@ -28,3 +28,13 @@ How much to combinate the former information and present information is determin
 The lower image shows how GRU is constructed.
 
 ![GRU](./img/GRU.png)
+
+[ What is different with LSTM ]
+
+* GRU has 2 gates, otherwise LSTM has 3 gates.
+
+* Inner memory value( c_t ) is not different from the value of hidden state value. This is because GRU doesn't have output gate that LSTM has.
+
+* Input gate and forget gate is combined as z. Reset gate r is adapted directrly to hidden state.
+
+* Doesn't adapt non-linear function for output
