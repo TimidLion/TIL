@@ -1,6 +1,6 @@
 ## jointly trained
 
-Not having important meaning, but just saying that combining **two network models**
+Not having important meaning, but just saying combining **two network models**
 
 ex) In RNN Encoder-Decoder model[1], two networks(Encoder, Decoder) are jointly trained 
 to maximize the conditional probability of the target sequence given a source sequence.
