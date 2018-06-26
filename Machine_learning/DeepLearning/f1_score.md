@@ -1,6 +1,6 @@
 ## F1-score
 
-![f1_score][./img/f1_score.png]
+![f1_score](./img/f1_score.png)
 
 As you can see in the upper formula, It is harmony of precision and recall.
 
