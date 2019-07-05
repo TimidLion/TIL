@@ -15,3 +15,5 @@ fault-tolerant collection of elements!
   * exception) ***persist*** function
 pairRDD type is usual. (ex. sequenceFile[K, V])
 
+
+LRU ways storing partitions(stage?).
