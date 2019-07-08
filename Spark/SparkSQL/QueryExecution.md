@@ -2,6 +2,8 @@
 
 ![Query Execution](./img/QueryExecution.png)
 
+QueryExecution is the result of executing a LogicalPlan in a SparkSession
+
 When you execute an operator on a Dataset it triggers query execution that gives the good ol' RDD of internal binary rows, i.e. RDD[InternalRow], that is Spark’s execution plan followed by executing an RDD action and so the result of the structured query.
 
 
