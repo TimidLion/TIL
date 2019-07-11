@@ -6,7 +6,7 @@
 
 * Use markdown format, however, I could upload some other type formated files such as pdf.
 
-* There is no specific rules for this repo, but I will try to write **everyday**.
+* There is no specific rules for this repo, but I will try to write **As Often As I Can**.
 
 * Goals of this repo is to *steady*, *record*, and *unashamed*.
 
@@ -21,7 +21,7 @@
 
 * markdown(md) 포맷을 사용하여서 작성하나, 가끔 다른 포맷의 파일을 기록하는 용도로 올릴 수도 있습니다.
 
-* 규칙은 정해두지 않았으나, **매일** 적을 수 있도록 할 것입니다.
+* 규칙은 정해두지 않았으나, **자주** 적을 수 있도록 할 것입니다.
 
 * 사용하는 언어로는 영어와 한글 두 가지 종류가 있습니다. 시간이 나면 되도록 양쪽 모두 번역하려고 하겠지만, 장담은 못합니다.
 
