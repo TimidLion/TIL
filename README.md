@@ -1,5 +1,7 @@
 ## TIL(Today I Learned)
 
+* #### Now I Moved to Notion So I don't use this repo in further ####
+
 * #### TIL is the abbreviation of "Today I Learned".
 
 * I write the small things about what I learned today or what I wanted to.
@@ -16,6 +18,8 @@
 
 ---
 ## TIL(Today I Learned)
+
+* 현재는 Notion으로 건너갔기 때문에 더 이상 이 repo를 이용하지 않습니다.
 
 * TIL은 "Today I Learned"의 약자로 그 날 배운 것이나 정리하고 싶은 것에 대해서 매일 조금씩 적으려고 만든 repository입니다.
 
